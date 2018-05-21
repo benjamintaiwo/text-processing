@@ -6,4 +6,4 @@
 #### 4. Tokenization
 #### 5. Stop Word Removal
 #### 6.Sentence Parsing
-####7. Stemming and Lemmatization
+#### 7. Stemming and Lemmatization
